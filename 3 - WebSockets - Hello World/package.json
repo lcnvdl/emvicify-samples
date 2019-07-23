@@ -1,0 +1,14 @@
+{
+  "name": "emvicify-sample-3",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "lcnvdl",
+  "license": "MIT",
+  "dependencies": {
+    "emvicify": "0.0.8"
+  }
+}
