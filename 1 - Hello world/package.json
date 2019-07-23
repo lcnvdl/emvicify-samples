@@ -9,6 +9,6 @@
   "author": "lcnvdl",
   "license": "MIT",
   "dependencies": {
-    "emvicify": "0.0.4"
+    "emvicify": "0.0.8"
   }
 }
